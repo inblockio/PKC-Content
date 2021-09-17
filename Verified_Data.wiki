@@ -1,0 +1,22 @@
+<i> Verified data is statically anchored in space and time. </i>
+It has been secured by the power of time. You cannot manipulate it without breaking verification. Proof us wrong!
+
+We make data verifiable by:
+* verifying the integrity of a [[Page-File]], it's [[Content]] and it's [[Metadata]] by turning it into a [[Permissioned Blockchain]]
+* anchoring it uniquely in space by giving it a unique name for each [[Revision]] which is turned into a block of arbitrary size.
+* making the account verifiable by [[entangling]] your [[Ethereum-Wallet]] account with the [[Page-File]] and allow it to become an [[Identity]] through the entanglement of [[Identity-Claims]]
+* by [[entangling]] your [[Page-File]] in time by proofing it's existence through time-stamping to a witness network
+
+
+== Three Level Classification of [[Verified Data]] ==
+{| class="wikitable"
+|-
+! Level of verification !! Description 
+|-
+| Level 1 - Integrity is verifiable || The data is integrity verified by including hashes of the content and metadata of the page file.
+|-
+| Level 2 - Integrity AND Account OR Time is verifiable || In addition to integrity verification the page file has either account or time-stamps (against a witness-network) available which has been entangled with the page file.
+|-
+| Level 3 - Integrity AND Account AND Time is verifiable || In addition  to integrity verification the page file has account AND time-stamps (against a witness network) available.
+|}
+

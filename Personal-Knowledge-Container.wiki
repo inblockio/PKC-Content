@@ -1,0 +1,5 @@
+Personal-Knowledge-Container
+
+<i> def: Personal-Knowledge-Container: A Software used to govern your data with the highest degree of digital sovereignty following the principle of full user-control and ownership.</i><br>
+<i> def: Digital Sovereignty: increased digital sovereignty means an increase in possible actions and therefore freedom of choice.</i>
+
