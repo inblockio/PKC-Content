@@ -1,1 +1,31 @@
-Introduction into usage of the [[Personal-Knowledge-Container]]
+The Personal-Knowledge-Container is a dockerized mediawiki configured to support data verification through a mediawiki extension called [[DataAccounting|https://github.com/FantasticoFox/DataAccounting]]. <br>
+
+== Post Installation ==
+There are two additional chrome extensions required to use the PKC. 
+
+One is your Ethereum MetaMask Web-Wallet which you can use to:
+# Login to your PKC
+# Sign a page
+# And timestamp a page
+<br>
+The other application is the web-browser extension 'VerifyPage' which is used to verify our verified data.<br>
+To use the VerifyPage extension you need to follow the [https://github.com/FantasticoFox/VerifyPage setup which is documented in the github repository.]
+
+== How to ==
+
+=== Configuration and Options ===
+Data Accounting Configurator
+
+=== Timestamping / Witnessing ===
+Domain Manifest Generator
+Domain Manifest Publisher
+
+=== Export / Import ===
+Export Verified Page
+Import Verified Page
+
+== FAQ ==
+
+Question:
+Answer:
+
