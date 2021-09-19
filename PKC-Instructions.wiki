@@ -26,6 +26,9 @@ Import Verified Page
 
 == FAQ ==
 
-Question:
-Answer:
+Question: Can I install the PKC also on my private machine?
+Answer: Yes! We encourage everyone to run their own PKC. Because we use docker, you can set up PKC on all major platforms like Windows, Mac and Linux.
+
+Question: Can I add other user to my PKC? 
+Answer: Yes you can, but only if it is run as a server which is reachable. Which means you have set it up with a DNS-Hostname which has a public IP address in the internet or in your network. Keep in mind, that other user might have access to data you don't want them to have access to. PKC is build on mediawiki which was never designed to keep data private. The best way to do so is to keep your instance disconnected from the internet and run it as a local instance only. If you choose to share your PKC anyway you might want to reduce access via firewalls and or additional [https://www.mediawiki.org/wiki/Permissions permission] restrictions within mediawiki.
 
