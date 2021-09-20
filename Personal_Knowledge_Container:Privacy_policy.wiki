@@ -1,0 +1,3 @@
+The Personal-Knowledge-Container software used does not collect any usage data nor does send any data in the deployment process.
+
+We cannot guarantee that some data might be collected in one of the software dependencies. This is subject to audits. 

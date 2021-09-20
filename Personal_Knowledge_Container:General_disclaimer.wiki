@@ -1,0 +1,3 @@
+Personal Knowledge Container is an openly developed software which is currently in pilot test phase (Starting in 21. September 2021).
+Please be adviced that this means that any usage which results in loss of data, unauthorized access to data or any other damage which might be cause by using this software is not within the responsibility of the parties developing or providing this software.
+The software is open source and allows for independent audit. If you or a company chooses to use this software in a productive deployment, please ensure that you do an independent audit upfront to ensure that the software is fit for the projected service. We ask for upstream contributions to make this software safer to use for everybody according to the GPLv3 Free Software License.
