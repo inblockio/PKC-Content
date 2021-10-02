@@ -1,7 +1,11 @@
-Welcome to the [[Personal-Knowledge-Container]] your Private Data Vault.<br>
+Welcome to the Personal Knowledge Container! 
+
+''Follow our [[PKC_Tutorial]] to learn how to use this product.''<br>
+
+The [[Personal Knowledge Container]] is your Private Data Vault.<br>
 It's a secure place where you own and govern your [[Verified Data]]. <br> 
 Empowered by the open source DataAccounting Software.<br>
-Configure and find more information about it here: </i>[[Special:DataAccountingConfig|Data Accounting Configurator]]<i>
-Follow our [[PKC-Instructions]] to learn how to use this product.<br>
 
 Get started by logging in with the option: 'Login with Ethereum Wallet' in the upper right corner.
+
+Configure and find more information about it here: </i>[[Special:DataAccountingConfig|Data Accounting Configurator]]<i>

@@ -1,0 +1,78 @@
+= Get Ready =
+Follow these steps to setup your local environment:
+<br><br>
+'''Install and setup the Personal Knowledge Container''' - https://github.com/FantasticoFox/micro-PKC <br> <br>
+Follow the instructions in the README.md to set up your own PKC running locally with Docker.
+<br> <br>
+'''Install and Set Up MetaMask''' - https://metamask.io/ <br> <br>
+This will be your digital wallet to keep track of your identity,
+you will use it to:
+* Login to your Personal Knowledge Container (PKC)
+* Sign a page 
+* And timestamp a page
+<br>
+'''Build and Install the Latest 'VerifyPage Extension''' - https://github.com/FantasticoFox/VerifyPage <br><br>
+You will use this to verify the integrity of pages in the PKC.
+
+= Basic Concepts =
+Each page in your PKC is a ''Mobile, Permissioned Content-Blockchain.'' <br>
+
+This means you can modify it, export it, send it to a collaborator, and import it with their changes, all in a cryptographically secure way that ensures nothing can be tampered with. 
+
+''Automated Witnessing'' creates counterfeit proof-timestamps of each change in your PKC, and can be published to the Ethereum Blockchain to prove its existence. This is especially helpful in legal settings, or in scientific publishing and patenting, where you would like to prove ownership of a document at a particular time. Your database state is tied to a particular transaction on the public blockchain in a way that cannot be altered or falsified.
+
+= PKC Usage =
+
+These are the basic actions you will need to use your PKC:
+
+* '''Sign in'''
+** The first step is to sign in with your MetaMask wallet
+** Click on the drop down menu next to Log In in the upper right corner
+** Follow 
+
+* '''Verify data'''
+** While on any page in the PKC, click on the "Verify Page" button in the extension to verify the history of that document.
+
+* '''Sign Page'''
+** While on any page in the PKC, at the top click on "Actions > Crypto Sign"
+** Follow the instructions in your Metamask wallet to sign the page
+** You should now see the signature in a new table titled "Data Accounting Signatures" at the bottom of the page
+
+* '''Make and Publish a Change'''
+** Click on "Actions > Edit", make any changes you would like, and then click on "Save Changes"
+
+* '''Export page'''
+** Save the document revision blockchain in XML format
+** Go to "Export Verified Page" in the left sidebar. 
+** Type the names of the pages you would like to export in the "Add pages manually" field
+** Make sure "Save as file" is checked
+** Click "Export" 
+
+* '''Import page'''
+** Add the document, along with revision history, to your PKC 
+** Go to "Import Verified Page" in the left sidebar.
+** Select the file you would like to import with "Choose file"
+** Modify any options you would like to customise
+** Click "Upload file"
+
+* '''Domain Manifest Generator'''
+** Generate Merkle tree for all documents in the PKC
+** This can be published to a witness network as proof of existence of your documents in time.
+
+* '''Domain Manifest Publisher'''
+** Publish a generated Domain Manifest to the witness network (Blockchain)
+
+* '''Data Accounting Configurator'''
+** Select which smart contract and witness network are used to verify witness events.
+
+== Advanced ==
+
+* Broken page?
+Open an issue in https://github.com/FantasticoFox/micro-PKC copying any relevant error messages.
+
+= FAQ =
+Question: Can I install the PKC also on my private machine? 
+Answer: Yes! We encourage everyone to run their own PKC. Because we use docker, you can set up PKC on all major platforms like Windows, Mac and Linux.
+
+Question: Can I add other user to my PKC? 
+Answer: Yes you can, but only if it is run as a server which is reachable. Which means you have set it up with a DNS-Hostname which has a public IP address in the internet or in your network. Keep in mind, that other user might have access to data you don't want them to have access to. PKC is build on mediawiki which was never designed to keep data private. The best way to do so is to keep your instance disconnected from the internet and run it as a local instance only. If you choose to share your PKC anyway you might want to reduce access via firewalls and or additional permission restrictions within mediawiki.

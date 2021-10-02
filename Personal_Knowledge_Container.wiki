@@ -1,3 +1,17 @@
+= About =
+
+<i> def: Personal-Knowledge-Container: A Software used to govern your data with the highest degree of digital sovereignty following the principle of full user-control and ownership.</i><br>
+<i> def: Digital Sovereignty: increased digital sovereignty means an increase in possible actions and therefore freedom of choice.</i>
+
+
+= Privacy Policy =
+
+The Personal-Knowledge-Container software used does not collect any usage data nor does send any data in the deployment process.
+
+We cannot guarantee that some data might be collected in one of the software dependencies. This is subject to audits. 
+
+= General Disclaimer =
+
 Personal Knowledge Container is an openly developed software which is currently in pilot test phase (Starting in 21. September 2021).
 Please be adviced that this means that any usage which results in loss of data, unauthorized access to data or any other damage which might be cause by using this software is not within the responsibility of the parties developing or providing this software.
 The software is open source and allows for independent audit. If you or a company chooses to use this software in a productive deployment, please ensure that you do an independent audit upfront to ensure that the software is fit for the projected service. We ask for upstream contributions to make this software safer to use for everybody according to the GPLv3 Free Software License.
