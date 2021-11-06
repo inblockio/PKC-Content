@@ -1,6 +1,6 @@
 # PKC-Content
 
-[![GitHub Actions build status](https://github.com/FantasticoFox/PKC-Content/actions/workflows/ci.yml/badge.svg)](https://github.com/FantasticoFox/PKC-Content/actions/workflows/ci.yml?query=branch%3Amain)
+[![GitHub Actions build status](https://github.com/inblockio/PKC-Content/actions/workflows/ci.yml/badge.svg)](https://github.com/inblockio/PKC-Content/actions/workflows/ci.yml?query=branch%3Amain)
 
 All wiki pages for auto-population in mediawiki.
 

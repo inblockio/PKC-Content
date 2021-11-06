@@ -1,7 +1,7 @@
 = Get Ready =
 Follow these steps to setup your local environment:
 <br><br>
-'''Install and setup the Personal Knowledge Container''' - https://github.com/FantasticoFox/micro-PKC <br> <br>
+'''Install and setup the Personal Knowledge Container''' - https://github.com/inblockio/micro-PKC <br> <br>
 Follow the instructions in the README.md to set up your own PKC running locally with Docker.
 <br> <br>
 '''Install and Set Up MetaMask''' - https://metamask.io/ <br> <br>
@@ -11,7 +11,7 @@ you will use it to:
 * Sign a page 
 * And timestamp a page
 <br>
-'''Build and Install the Latest 'VerifyPage Extension''' - https://github.com/FantasticoFox/VerifyPage <br><br>
+'''Build and Install the Latest 'VerifyPage Extension''' - https://github.com/inblockio/VerifyPage <br><br>
 You will use this to verify the integrity of pages in the PKC.
 
 = Basic Concepts =
@@ -70,7 +70,7 @@ These are the basic actions you will need to use your PKC:
 == Advanced ==
 
 * Broken page?
-Open an issue in https://github.com/FantasticoFox/micro-PKC copying any relevant error messages.
+Open an issue in https://github.com/inblockio/micro-PKC copying any relevant error messages.
 
 = FAQ =
 Question: Can I install the PKC also on my private machine? 

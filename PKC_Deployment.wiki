@@ -32,7 +32,7 @@ We build on the chrome-engine. So browsers like: Chrome, Chromium, Brave, Edge w
 
 Required extensions:
 - [https://metamask.io/ Metamask.io] (as Identity Anchor): This extension can be downloaded from the Chrome web store.
-- [https://github.com/FantasticoFox/VerifyPage VerifyPage] (as external Verifier): This extension is currently not available within the Chrome web store, but can be compiled from scratch from our Github repository.
+- [https://github.com/inblockio/VerifyPage VerifyPage] (as external Verifier): This extension is currently not available within the Chrome web store, but can be compiled from scratch from our Github repository.
 
 == Mobile Phones: Andoid / iOS ==
 - You can use the metamask mobile wallet to log into your PKC remotely if it's a web-accessible public PKC instance.
