@@ -1,0 +1,39 @@
+= Server Operation Systems =
+As PKC (Personal Knowledge Container) is developed within docker-containers (the virtualization layer). It can be deployed to all platforms which support docker.
+
+A pre-requisite to deploy the PKC, is to run our installation scripts (Bash, PowerShell (not yet supported)), Git and Docker (incl. Docker-Compose).
+
+== Minimal Hardware requirements ==
+We have tested it with AWS micro-instances for public accessible PKC's 1 GB RAM, 1 CPU, 8 GB SSD Hard drive and it works fine. Due to the low performance of those machines, we sometimes experienced longer waiting times for the API calls, which can decrease the user-experience. We advise using more powerful machines to ensure fast API responses.
+
+SSD Hard drives may not be always needed, but should be considered for public instances hosting multiple users. The verification process can require many additional disk IO's, making SSD Hard drives highly recommended.
+
+== Deployment Modes ==
+* Private (Not routed) as a localhost accessible instance. Used for laptops as PKC's.
+* Public (Routable) requires two domain names which are publicly accessible from the internet, and a minimum of one public IP address
+
+== Linux ==
+- Ubuntu 20.04 LTS Supported Desktop / Server [ONLY SUPPORTED DEPLOYMENT FOR PUBLIC ACCESS]
+
+== MacOS ==
+- Mac OS 11.6 Big Sur, Supported, Tested on the Mac Book Pro M4
+
+== Windows ==
+* Windows UNTESTED, Unsupported
+* TBD for testing: Use Linux-Runtime-Environment of Windows to execute the Powershell-script correctly.
+* TBD installation script translation into Powershell
+* Known workaround: Use a virtual machine with Ubuntu 20.04 LTS and install it there. This adds additional benefits of snapshots and the ability to pause the machine. The downside is the additional overhead.
+* Using linux subsystems via https://hackernoon.com/how-to-install-bash-on-windows-10-lqb73yj3
+
+= Clients =
+
+== Client Browser Dependency ==
+We build on the chrome-engine. So browsers like: Chrome, Chromium, Brave, Edge will all support our required extensions out of the box. Fortunately this is available on all platforms.
+
+Required extensions:
+- [https://metamask.io/ Metamask.io] (as Identity Anchor): This extension can be downloaded from the Chrome web store.
+- [https://github.com/FantasticoFox/VerifyPage VerifyPage] (as external Verifier): This extension is currently not available within the Chrome web store, but can be compiled from scratch from our Github repository.
+
+== Mobile Phones: Andoid / iOS ==
+- You can use the metamask mobile wallet to log into your PKC remotely if it's a web-accessible public PKC instance.
+- TBD currently there is no mobile verifier. This is TBD as part of the repackaging required to allow for mobile-phone verification.
