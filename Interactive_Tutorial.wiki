@@ -1,0 +1,60 @@
+Dear Colleague,<br>
+We've been observing some periodic variations in the orbital pattern of Jupiter and would like to share with you our findings, please support us in reviewing and peer-publishing this paper.
+
+{| class="wikitable" 
+|-
+! Date
+! Deviation: Latitude
+! Deviation: Longitude
+|-
+| 13/09/21
+| +0.03
+| +0.02
+|-
+| 17/09/21
+| +0.02
+| +0.04
+|-
+| 22/09/21
+| 0.00
+| +0.05
+|-
+| 27/9/21
+| -0.01
+| +0.03
+|-
+| 01/10/21
+| -0.05
+| +0.01
+|-
+| 05/10/21
+| -0.04
+| -0.01
+|}
+
+* First, please verify the data and changes using the '''Data Accounting Extension'''
+** Click on the extension in the top right corner, and then click on ''Verify Page''
+** You should see the history of edits and that the integrity of the page has been verified
+* Once you have reviewed, please ''sign it with your digital signature''
+** You can do this by clicking on '''Actions &gt; Sign 🔑''' in your PKC, and following the instructions in the MetaMask popup.
+
+<br>
+<hr>
+<br>
+
+We think there may be another group racing to publish these findings. In order to prove the date at which you saw this document, we would like for you to be a part of ''Peer Publishing'' this report. 
+
+* Go to '''Domain Manifest Generator''' in your ''PKC'', and click on ''Generate Domain Manifest''.
+** This will generate an anonymous hash of the state of your database, verifying that our document ''New Observations on Jupiter'' was present there at present there at this time. 
+
+* Then, go to '''Domain Manifest Publisher''' and click ''Publish'' next to the newly generated ''Domain Manifest''
+** Follow the steps on MetaMask in order to publish this manifest hash to the Ethereum Blockchain, and prove immutably that you saw this document from us first. 
+** Once you have published this to the blockchain, you can click the link to view it on Etherscan.
+
+* Finally, please go to '''Export Verified Page''' in your PKC, and use the dialogue there to export ''New Observations on Jupiter'' as an .xml file
+** This new file includes your signature, please email it to ''tutorial_aqua@inblock.io'' and we will collect it for peer review.
+<br>
+Thank you for your help! <br>
+<br>
+Kindest Regards,<br>
+Aqua Scientific
