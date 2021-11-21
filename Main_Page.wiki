@@ -1,4 +1,5 @@
-Welcome to the Personal Knowledge Container! 
+Welcome to the Personal Knowledge Container!<br>
+[[Special:OAuth2Client/redirect| Login with Ethereum Wallet]]
 
 ''Follow our [[PKC_Tutorial]] to learn how to use this product.''<br>
 
@@ -9,3 +10,10 @@ Empowered by the open source DataAccounting Software.<br>
 Get started by logging in with the option: 'Login with Ethereum Wallet' in the upper right corner.
 
 Configure and find more information about it here: </i>[[Special:DataAccountingConfig|Data Accounting Configurator]]<i>
+
+Quick Navigation Data Accounting
+* [[Special:DataAccountingConfig|Data Accounting Configurator]]
+* [[Special:Witness|Domain Manifest Generator]]
+* [[Special:WitnessPublisher|Domain Manifest Publisher]]
+* [[Special:VerifiedExport|Export Verified Page]]
+* [[Special:VerifiedImport|Import Verified Page]]
