@@ -12,7 +12,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - uses: codespell-project/actions-codespell@master
-      with: 
+      with:
         ignore_words_list: Sur
         only_warn: 1
 
