@@ -1,0 +1,51 @@
+= Non-Disclosure Agreement =
+
+This Non-Disclosure Agreement (this “Agreement” or this “Non-Disclosure Agreement”) by and between [Sender.Company], a [Sender.State][type of legal entity], having its principal place of business at [Sender.StreetAddress] (the “Disclosing Party”), and [Client.Company], a [Client.State][type of legal entity], having its principal place of business at [Client.StreetAddress] (the “Receiving Party”) who agrees to be bound by this Agreement.
+
+WHEREAS, through this Non-Disclosure Agreement, the Disclosing Party and Receiving Party have entered into a relationship by which the Receiving Party may be exposed to certain confidential information of the Disclosing Party, in which it has an interest in protecting.
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises made by the parties hereto, [Sender.Company] and [Client.Company](individually, each a “Party” and collectively, the “Parties”) covenant and agree as follows:
+
+1. DEFINITIONS
+
+For the purposes of this Non-Disclosure Agreement, the following terms are defined as follows:
+
+a. “Trade Secret” means all information possessed by or developed for Disclosing Party to which all the following apply: (i) the information derives independent economic value from not being generally known and (ii) Disclosing Party takes reasonable precautions to prevent such information from being disclosed to the public.
+
+b. “Confidential Information” means information, to the extent it is not a Trade Secret, which is possessed by Disclosing Party and which relates to Disclosing Party, including, without limitation, for example: business plans, strategies, existing or proposed bids, costs, technical developments, intellectual property, proprietary information, financial or business projections, investments, marketing plans, or training information, materials, and examples of confidential information.
+
+2. NON-DISCLOSURE OF CONFIDENTIAL INFORMATION
+
+Except as required to further the relationship between Disclosing Party and Receiving Party or as expressly authorized in writing on behalf of Disclosing Party, Receiving Party shall not disclose, directly or indirectly, any Confidential Information during the period of his/her relationship with Disclosing Party or anytime after the termination of such relationship.
+
+3. TRADE SECRETS
+
+Throughout the duration of this Non-Disclosure Agreement and Receiving Party‘s business relationship with the Disclosing Party and anytime after the termination of such relationship, the Receiving Party shall do what is reasonably necessary to prevent unauthorized disclosure of the Disclosing Party‘s Trade Secrets. Further, after the termination of any such relationship, the Receiving Party shall not use or disclose Disclosing Party‘s Trade Secrets as long as they remain Trade Secrets.
+
+4. EXCEPTIONS
+
+The provisions of Sections 2 and 3 above will not be deemed to prohibit any disclosure that is required by law or court order, however the Receiving Party agrees to provide the Disclosing Party with reasonable prior notice and an opportunity to contest or minimize such disclosure.
+
+This section of the template requires all confidential property or information be returned to you upon termination of this NDA agreement. If this agreement is used with employees and you are in the U.S., then you need to include special language stating that the provisions of this contract are not intended to interfere with or discourage a good faith disclosure to any governmental entity related to a suspected violation of the law.
+
+5. RETURN OF DOCUMENTS
+
+Immediately upon termination of the relationship between Disclosing Party and Receiving Party, Receiving Party shall return to Disclosing Party any documents pertaining to the Confidential Information or Trade Secrets which are in Receiving Party‘s possession.
+
+The indemnity section of this NDA template helps prevent the vendor or contractor from suing you for damages for any reason.
+
+6. REPRESENTATIVE ACKNOWLEDGMENTS
+
+Receiving Party acknowledges that: (i) this Agreement has been specifically bargained between the parties and reviewed by Receiving Party, (ii) Receiving Party has had an opportunity to obtain legal counsel to review this Agreement, and (iii) the covenants made by and duties imposed upon Receiving Party hereby are fair, reasonable, and minimally necessary to protect the legitimate business interests of Disclosing Party, (iv) such covenants and duties will not place an undue burden upon Receiving Party‘s livelihood in the event of termination of Receiving Party’s business relationship with Disclosing Party and the strict enforcement of the covenants contained herein, and (v) any breach of this Agreement will cause substantial and irreparable harm to Disclosing Party for which money damages would be an inadequate remedy.
+
+
+
+Jeremy Grant, <br>
+with wallet address: {0xEf5b722E94Bf7c45AabD5aDf917a6B1397e241a4} <br>
+- on behalf of - <br>
+Aqua Ventures
+<br><br>
+<hr>
+<br>
+To: Ash Cormorant <br>
+with wallet address: {0x9A5E0d34CB1F817401A8F6247c84A80B70Cb2FA4}<br><br><hr><div class="toccolours mw-collapsible mw-collapsed"><div style="font-weight:bold;line-height:1.6;">Data Accounting Signatures</div><div class="mw-collapsible-content">[[User:0xef5b722e94bf7c45aabd5adf917a6b1397e241a4|0xef5b722e94bf7c45aabd5adf917a6b1397e241a4]] ([[User talk:0xef5b722e94bf7c45aabd5adf917a6b1397e241a4|talk]]) 11:55, 1 December 2021 (UTC) <br></div>
