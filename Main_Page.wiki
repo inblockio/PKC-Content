@@ -12,10 +12,3 @@ Get started by logging in with the option: 'Login with Ethereum Wallet' in the u
 You can read about all of the actions in the [[PKC_Documentation]].
 
 Configure and find more information about it here: </i>[[Special:DataAccountingConfig|Data Accounting Configurator]]<i>
-
-Quick Navigation Data Accounting
-* [[Special:DataAccountingConfig|Data Accounting Configurator]]
-* [[Special:Witness|Domain Manifest Generator]]
-* [[Special:WitnessPublisher|Domain Manifest Publisher]]
-* [[Special:VerifiedExport|Export Verified Page]]
-* [[Special:VerifiedImport|Import Verified Page]]
