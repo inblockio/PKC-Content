@@ -1,5 +1,4 @@
 Welcome to the Personal Knowledge Container!<br>
-[[Special:OAuth2Client/redirect| Login with Ethereum Wallet]]
 
 ''Follow our [[Interactive_Tutorial]] to learn how to use this product.''<br>
 
