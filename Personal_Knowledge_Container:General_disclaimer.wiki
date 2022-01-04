@@ -1,0 +1,1 @@
+The technology developed by inblock.io assets GmbH & partners under the name Aqua and PKC - Personal Knowledge Container is RESEARCH WORK which is '''HIGHLY EXPERIMENTAL'''. We DO NOT RECOMMEND any usage for productive deployments. '''If you choose to use this software, you're doing so on your own risk and liability.'''

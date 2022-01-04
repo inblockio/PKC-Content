@@ -1,0 +1,12 @@
+Q:What information is collected?
+A:None.
+Q:Where information is collected from?
+A:Nowhere.
+Q:Why information is collected?
+A:We have no reason. You're running a sovereign peace of software.
+Q:How information is collected (including through cookies and other tracking technologies)?
+A:Various information are gathered within the system. They are solely for your own usage and a NOT send outside your Data Vault.
+Q:Who information is shared with or sold to?
+A:Nobady.
+Q:What rights users have over their data?
+A:All rights. It's your data.

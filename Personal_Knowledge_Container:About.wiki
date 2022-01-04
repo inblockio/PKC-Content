@@ -1,0 +1,9 @@
+You're using a Personal Knowledge Container (PKC) developed by ''inblock.io assets GmbH'' under GPLv3 License.
+The PKC acts as a Data Vault.<br>
+
+'''Data Vault'''<br>
+is a software with strong architecture and measures to keeping data assets safe. This is achieved through encryption, strong authentication and restrictive access to keep data private by default.<br>
+
+Data Vaults can be used for governing trustworthy data:<br>
+Personal files and notes, like medical records, identity claims, certificates, legal agreements and more.<br>
+It can be used as a notary service to protect intellectual property, proof data integraty and ownership.
