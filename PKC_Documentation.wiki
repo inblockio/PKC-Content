@@ -57,12 +57,12 @@ These are the basic actions you will need to use your PKC:
 ** Modify any options you would like to customise
 ** Click "Upload file"
 
-* '''Domain Manifest Generator'''
+* '''Domain Snapshot Generator'''
 ** Generate Merkle tree for all documents in the PKC
 ** This can be published to a witness network as proof of existence of your documents in time.
 
-* '''Domain Manifest Publisher'''
-** Publish a generated Domain Manifest to the witness network (Blockchain)
+* '''Domain Snapshot Publisher'''
+** Publish a generated Domain Snapshot to the witness network (Blockchain)
 
 * '''Data Accounting Configurator'''
 ** Select which smart contract and witness network are used to verify witness events.

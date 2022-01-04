@@ -55,11 +55,11 @@ Aqua Scientific
 <hr>
 <br>
 
-* Go to '''[[Special:Witness|Domain Manifest Generator]]''' in your ''PKC'', and click on ''Generate Domain Manifest''.
+* Go to '''[[Special:Witness|Domain Snapshot Generator]]''' in your ''PKC'', and click on ''Generate Domain Snapshot''.
 ** This will generate an anonymous hash of the state of your database, verifying that our document ''Interactive Tutorial - New Observations on Jupiter'' was present there at this time.
 
-* Then, go to '''[[Special:WitnessPublisher|Domain Manifest Publisher]]''' and click ''Publish'' next to the newly generated ''Domain Manifest''
-** Follow the steps on MetaMask in order to publish this manifest hash to the Ethereum Blockchain, and prove immutably that you saw this document from us first.
+* Then, go to '''[[Special:WitnessPublisher|Domain Snapshot Publisher]]''' and click ''Publish'' next to the newly generated ''Domain Snapshot''
+** Follow the steps on MetaMask in order to publish this Domain Snapshot hash to the Ethereum Blockchain, and prove immutably that you saw this document from us first.
 ** Once you have published this to the blockchain, you can click the link to view it on Etherscan.
 
 * Finally, please go to '''[[Special:Export|Export Verified Page]]''' in your PKC, and use the dialogue there to export ''Interactive Tutorial - New Observations on Jupiter'' as an .xml file
