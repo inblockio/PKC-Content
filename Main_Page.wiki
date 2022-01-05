@@ -10,4 +10,4 @@ Get started by logging in with the option: 'Login with Ethereum Wallet' in the u
 
 You can read about all of the actions in the [[PKC_Documentation]].
 
-Configure and find more information about it here: </i>[[Special:DataAccountingConfig|Data Accounting Configurator]]<i>
+Configure and find more information about it here: </i>[[Special:DataAccountingConfig|Configuration ⚙️]]<i>
