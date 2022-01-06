@@ -1,13 +1,11 @@
 Welcome to the Personal Knowledge Container!<br>
+<i>Your place to own and govern your trusted data.</i><br>
+<i>Build on and with free and open source software.</i><br>
 
 ''Follow our [[Interactive_Tutorial]] to learn how to use this product.''<br>
+You can read about all of the custom Aqua actions in the [[PKC_Documentation]].
 
-The [[Personal Knowledge Container]] is your Private Data Vault.<br>
-It's a secure place where you own and govern your [[Verified Data]]. <br> 
-Empowered by the free and open-source DataAccounting Software.<br>
+The [[Personal Knowledge Container]] is your private Data Vault.<br>
+Data is structured according the [[Aqua Protocol]] to created trusted an [[Verified Data]]. <br> 
 
-Get started by logging in with the option: 'Login with Ethereum Wallet' in the upper right corner.
-
-You can read about all of the actions in the [[PKC_Documentation]].
-
-Configure and find more information about it here: </i>[[Special:DataAccountingConfig|Configuration ⚙️]]<i>
+Configure Mediawiki 'Data Accounting Extension' and find more information here: </i>[[Special:DataAccountingConfig|Configuration ⚙️]]<i>
